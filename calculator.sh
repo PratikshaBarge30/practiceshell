@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "Simple master change"
 echo "Enter two numbers"
 read a 
 read b
