@@ -1,4 +1,6 @@
 #!/bin/bash
+
+echo "Check github updation"
 echo "Simple master change"
 echo "Enter two numbers"
 read a 
